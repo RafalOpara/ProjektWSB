@@ -52,7 +52,7 @@ public:
 	}
 	virtual ~Apple()
 	{
-		cout << "Zoo zamknięte, żegam." << endl;
+		;
 	}
 
 	 void kcalInfo()
@@ -88,7 +88,7 @@ public:
 	}
 	virtual ~Orange()
 	{
-		cout << "Zoo zamknięte, żegam." << endl;
+		;
 	}
 
 	 void kcalInfo ()
@@ -126,7 +126,7 @@ public:
 	}
 	virtual ~Banana()
 	{
-		cout << "Zoo zamknięte, żegam." << endl;
+		;
 	}
 
 	 void kcalInfo()
