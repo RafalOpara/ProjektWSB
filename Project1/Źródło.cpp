@@ -4,10 +4,6 @@ using namespace std;
 std::vector<Fruits*> vectorPointer;
 double cash = 10.0;
 
-/// 1-pies
-/// 2-kot
-/// 3-slon
-///4 - wszystkie
 
 int main()
 {
